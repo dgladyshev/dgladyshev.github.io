@@ -173,6 +173,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    font-size: 28px;
 }
 
 .navbar-default .navbar-brand {
@@ -214,6 +215,7 @@ fieldset[disabled] .btn-xl.active {
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
+    font-size: 16px;
 }
 
 .navbar-default .nav li a:hover,
@@ -289,6 +291,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    text-shadow: 0 0 4px #fff;
 }
 
 header .intro-text .intro-heading {
@@ -298,6 +301,7 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    text-shadow: 0 0 4px #fff;
 }
 
 @media(min-width:768px) {
@@ -312,6 +316,7 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
+        text-shadow: 0 0 4px #fff;
     }
 
     header .intro-text .intro-heading {
@@ -321,6 +326,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+        text-shadow: 0 0 4px #fff;
     }
 }
 
