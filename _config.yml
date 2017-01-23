@@ -2,7 +2,7 @@ url: https://dgladyshev.github.io
 baseurl: 
 
 # Site settings
-title: CraftCraft Shop
+title: CraftCraft
 email: m.gladysheva@craftcraft.shop
 #todo
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -12,25 +12,26 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Дмитрий Гладышев
   pic: 1
-  position: Lead Designer
+  position: Разработка 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Марина Гладышева
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: linkedin
       url: #
+
+- name: Марина Гладышева
+  pic: 2
+  position: Исследдовния/UX
+  social:
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Александр Иссадовский
+  pic: 2
+  position: Финансы
+  social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
