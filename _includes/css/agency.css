@@ -269,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #010101;
+    color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
@@ -291,7 +291,6 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
-    text-shadow: 0 0 4px #fff;
 }
 
 header .intro-text .intro-heading {
@@ -301,7 +300,6 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-    text-shadow: 0 0 4px #fff;
 }
 
 @media(min-width:768px) {
@@ -316,7 +314,6 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
-        text-shadow: 0 0 4px #fff;
     }
 
     header .intro-text .intro-heading {
@@ -326,7 +323,6 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
-        text-shadow: 0 0 4px #fff;
     }
 }
 
@@ -345,7 +341,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+    /*font-style: italic;*/
     font-weight: 400;
 }
 
@@ -664,9 +660,10 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    /*background-image: url('{{ site.baseurl }}/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
+    /*height: 50px;*/
 }
 
 section#contact .section-heading {
