@@ -11,7 +11,11 @@ body {
 }
 
 .text-muted {
-    #{{ site.data.template.color.muted }};
+    color: #000000;
+}
+
+.text-white {
+    color: #ffffff;
 }
 
 .text-primary {
@@ -63,6 +67,10 @@ h6 {
 
 .bg-light-gray {
     background-color: #f7f7f7;
+}
+
+.bg-medium-gray {
+    background-color: #eeeeee;
 }
 
 .bg-darkest-gray {
