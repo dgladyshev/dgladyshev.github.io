@@ -876,3 +876,20 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+/* responsive videos */
+.video figure {
+    position: relative;
+    nowhitespace: afterproperty;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video iframe, .video object, .video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+}
