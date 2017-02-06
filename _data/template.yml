@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: '"Fira Sans Extra Condensed", "Helvetica Neue", Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: '"Yanone Kaffeesatz", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  secondary: '"Poiret One", "Helvetica Neue", Helvetica,Arial,sans-serif'
